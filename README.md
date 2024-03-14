@@ -1,0 +1,1 @@
+# Blog CURD Django
